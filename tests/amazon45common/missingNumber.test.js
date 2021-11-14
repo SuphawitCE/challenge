@@ -26,7 +26,7 @@ describe('Amazon 45 common - Missing number', () => {
   });
 
   for (let i = 0; i < 100; i++) {
-    test(`Test - generateNumber and generateExceptOne return positive integer round: ${i}`, async () => {
+    test(`Test - generateNumber and generateExceptOne return positive integer and -1 round: ${i}`, async () => {
       let min = 1;
       let max = 101;
       const generateOne = generateExceptOne(min, max);
