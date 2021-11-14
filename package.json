@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint src test --max-warnings=0",
     "test": "jest --coverage"
   },
   "author": "SuphawitCE",
