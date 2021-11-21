@@ -10,7 +10,6 @@ Take your time and read the question or listen carefully to what your interviewe
 
 Re-state the question and confirm you’ve understood it
 
----
 ## Ask clarification questions
 
 ### General
